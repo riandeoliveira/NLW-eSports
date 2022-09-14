@@ -1,8 +1,11 @@
 # client
+client/.env
 client/node_modules
 
 # mobile
+mobile/.env
 mobile/node_modules
 
 # server
+server/.env
 server/node_modules
